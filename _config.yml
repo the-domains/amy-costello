@@ -1,7 +1,7 @@
 name: Amy Costello
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0
+layout_spectrum: 0.25819
+typography_spectrum: 0.47977
 title: Amy Costello Training
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.28203520248644054
-  lightness: 0.9847012916579843
-  saturation: 0.1362733948044479
-  rhythmicContrast: 0.056495326571166515
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
