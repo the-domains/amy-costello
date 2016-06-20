@@ -5,19 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My 3 training principles:'
-datePublished: '2016-06-20T09:48:01.119Z'
-dateModified: '2016-06-20T09:47:24.164Z'
+datePublished: '2016-06-20T09:51:48.374Z'
+dateModified: '2016-06-20T09:50:59.167Z'
 title: What Can I Do For You?
 author: []
+sourcePath: _posts/2016-06-20-what-can-i-do-for-you.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-20-what-can-i-do-for-you.md
 url: what-can-i-do-for-you/index.html
 _type: Article
 
 ---
 # What Can I Do For You?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5cd4ed6-f3a6-4f34-8963-5acd8c428850.jpg)
 
 My 3 training principles:
 
