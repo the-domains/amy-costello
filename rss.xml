@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Amy Costello Training]]></title>
+        <description><![CDATA[Amy Costello Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 09:47:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FUNCTIONAL FITNESS]]></title>
+            <description><![CDATA[<article><h1>FUNCTIONAL FITNESS</h1><p>Functional fitness - what is it?</p></article>]]></description>
+            <link>undefinedfunctional-fitness/index.html</link>
+            <guid isPermaLink="false">15ea5983-1ea2-4be7-b101-53db9893ba5d</guid>
+            <pubDate>Mon, 20 Jun 2016 09:47:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
